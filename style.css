@@ -54,34 +54,62 @@ h1 {
     color: red;
     background-image: linear-gradient(#ff00000f, #ff00002e);
 }
- 
+
 
 .food {
     width: 25%;
     padding: 20px;
     background-color: #EDF5F6;
     margin-left: 30px;
-    
-    
-  }
-    .shelter
-    {
-        width: 25%;
-        padding: 20px;
-        background-color: #FFEEEE;
-        margin-left: 30px;
-        
-    
-    }
-    .education{
-        width: 25%;
-        padding: 20px;
-        background-color:#FFF4D6;
-        margin-left: 30px;
-    
-    }
-    .donate-item{
-        display: flex;
-        margin-left: 80px;
-        margin-top: 40px;
-       
+
+
+}
+
+.shelter {
+    width: 25%;
+    padding: 20px;
+    background-color: #FFEEEE;
+    margin-left: 30px;
+
+
+}
+
+.education {
+    width: 25%;
+    padding: 20px;
+    background-color: #FFF4D6;
+    margin-left: 30px;
+
+}
+
+.donate-item {
+    display: flex;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+.email-input {
+    padding: 15px;
+    border-radius: 5px;
+    background-color: azure;
+
+}
+
+span {
+
+    background-color: #F78768;
+    padding: 15px;
+    border-radius: 5px;
+}
+.box
+{
+    display: flex;
+    width: 400px;
+    background-color: #F78768;
+}
+.footer-item{
+    background-color: black;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
