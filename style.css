@@ -31,26 +31,57 @@ h1 {
     margin-top: 20px;
 
 }
-.donate-today{
+
+.donate-today {
     text-align: center;
     padding-top: 90px
-
 }
-.donate-amount h3{
 
-    display:inline-flex ;
-    padding-left: 60px ;
+.donate-amount h3 {
+
+    display: inline-flex;
+    padding-left: 60px;
     font-size: 30px;
     font-weight: 700;
 }
-  
- .coloring{
+
+.coloring {
     border: 3px solid red;
     font-size: 30px;
     font-weight: 700;
     padding: 27px;
     border-radius: 5px;
     color: red;
-    background-image:  linear-gradient(#ff00000f,#ff00002e);
- } 
-  
+    background-image: linear-gradient(#ff00000f, #ff00002e);
+}
+ 
+
+.food {
+    width: 25%;
+    padding: 20px;
+    background-color: #EDF5F6;
+    margin-left: 30px;
+    
+    
+  }
+    .shelter
+    {
+        width: 25%;
+        padding: 20px;
+        background-color: #FFEEEE;
+        margin-left: 30px;
+        
+    
+    }
+    .education{
+        width: 25%;
+        padding: 20px;
+        background-color:#FFF4D6;
+        margin-left: 30px;
+    
+    }
+    .donate-item{
+        display: flex;
+        margin-left: 80px;
+        margin-top: 40px;
+       
