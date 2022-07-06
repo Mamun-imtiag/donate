@@ -28,5 +28,29 @@ h1 {
     font-weight: 400;
     color: whitesmoke;
     border-radius: 7px;
+    margin-top: 20px;
 
 }
+.donate-today{
+    text-align: center;
+    padding-top: 90px
+
+}
+.donate-amount h3{
+
+    display:inline-flex ;
+    padding-left: 60px ;
+    font-size: 30px;
+    font-weight: 700;
+}
+  
+ .coloring{
+    border: 3px solid red;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 27px;
+    border-radius: 5px;
+    color: red;
+    background-image:  linear-gradient(#ff00000f,#ff00002e);
+ } 
+  
