@@ -1,0 +1,32 @@
+body {
+    font-family: 'Noto Serif', serif;
+}
+
+h1 {
+    font-size: 45px;
+    line-height: 20px;
+
+}
+
+.top-background-image {
+    background-image: linear-gradient(rgb(107 83 83 / 0%), rgb(138 126 126 / 57%)), url(images/donation1.jpg);
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    padding-top: 90px;
+
+    color: white;
+
+}
+
+.donate-button {
+    background-color: #F78768;
+    text-decoration: none;
+    padding: 10px 40px;
+    font-weight: 400;
+    color: whitesmoke;
+    border-radius: 7px;
+
+}
